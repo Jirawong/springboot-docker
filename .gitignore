@@ -1,0 +1,10 @@
+**/target
+**/.DS_Store
+
+**/nb-configuration.xml
+**/nbactions.xml
+
+**/*.idea
+**/*.iml
+**/.h2.server.properties
+/target/
